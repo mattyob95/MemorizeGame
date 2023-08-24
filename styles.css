@@ -1,6 +1,9 @@
 body {
   text-align: center;
   background-color: #011F3F;
+  background: linear-gradient(rgba(0,0,0,0.7), goldenrod);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #level-title {
